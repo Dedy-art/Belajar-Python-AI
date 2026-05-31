@@ -1,0 +1,2 @@
+Berikut adalah tautan resmi Docker Hub untuk kriteria Advanced:
+https://hub.docker.com/r/dedyart/predictive-maintenance-model
